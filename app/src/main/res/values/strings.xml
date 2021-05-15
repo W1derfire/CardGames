@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Card Games</string>
+    <string name="blackjack">Blackjack</string>
+    <string name="cards">Cards</string>
+</resources>
